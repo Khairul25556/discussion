@@ -26,7 +26,7 @@ If using GitHub Pages, visit: **https://Khairul25556.github.io/docs/**
 Feel free to start or join discussions in the **Discussions** tab.
 
 ## 📧 Contact
-For inquiries or contributions, reach out via email: [Your Email](mailto:your-email@example.com)
+For inquiries or contributions, reach out via email: [Your Email](krft44@gmail.com)
 
 ---
 Happy documenting! ✍️
