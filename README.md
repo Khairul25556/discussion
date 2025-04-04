@@ -1,4 +1,4 @@
-# 📚 Docs Repository
+# 📚 Discussion Repository
 
 Welcome to the **Docs Repository**! This repository is intended to store and manage documentation files, discussions, and resources related to our project.
 
